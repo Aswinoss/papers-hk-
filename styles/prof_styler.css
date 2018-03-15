@@ -1,0 +1,129 @@
+body{
+background-color: #f1f1f1;
+font-family: "Helvetica Neue";
+color: #3b3b3b;
+
+}
+
+
+._init{
+overflow-y: scroll;
+
+}
+
+div{
+display: block;
+}
+
+.binder{
+position: relative;
+margin-left: 0;
+}
+
+.orange_bar{
+
+background-color: #ee3a00;
+position: fixed !important;
+height: 5em;
+border-bottom: 1px solid #c04d00;
+box-shadow: 0 1px 1px 1px #888888;
+left: 0;
+right: 0;
+top: 0;
+overflow: hidden;
+z-index: 4000;
+}
+
+.logo_top{
+background-image: url("ind-logo.png");
+background-color: #ee3a00;
+background-repeat: no-repeat;
+width: 150px;
+height: 50px;
+position: absolute;
+display: block;
+text-indent: -999px;
+text-align: left;
+position: relative;
+margin: 1em 1em;
+white-space: nowrap;
+z-index: 6;
+
+}
+
+
+ .main_Content{
+ 
+ background-color: #f9f9f9;
+ height: 25em;
+ position: relative;
+ margin-top: 4em;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 1em;
+ padding-bottom: 2em;
+  }
+
+.bar_bottom{
+
+background-color: #23272d;
+position: fixed;
+background-repeat: repeat-x;
+background-position: 0 0;
+background-size: auto;
+border-top: 1px solid black;
+width: auto;
+height: auto;
+bottom: 0;
+left: 0;
+right: 0;
+overflow: auto;
+position: fixed !important;
+
+
+}
+
+.bar_bottom a:link, a:visited{
+font-family: Helvetica Neue;
+text-decoration: none;
+color: #808b9c;
+}
+
+.bar_bottom a:hover{
+text-decoration: none;
+cursor: pointer;
+color: #f1f1f1;
+}
+
+._love{
+background-image: url("ind-lo.png");
+background-repeat: no-repeat;
+background-position: center;
+width: 50px;
+height: 40px;
+float: left;
+
+}
+
+
+.t_class{
+line-height: 10px;
+position: relative;
+float: center;
+margin: auto;
+
+}
+
+.tr_class{
+display: table-row;
+vertical-align: inherit;
+border-color: inherit;
+position: relative;
+color: #fff;
+}
+
+.td_class{
+padding: 0 1em;
+text-align: center;
+position: relative;
+}

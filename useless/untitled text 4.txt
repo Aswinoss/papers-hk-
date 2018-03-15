@@ -1,0 +1,32 @@
+//useless
+
+
+if($subpage == ''){
+
+}else if($subpage == ''){
+
+}else if($subpage == ''){
+
+}else if($subpage == ''){
+
+}
+
+
+
+
+
+<select id="education" name="education" class="form-control review">
+	                                <option value="">Select Education</option>
+	                                <option value="No Formal Education">No Formal Education</option>
+	                                <option value="1st - 9th Class">1st - 9th Class</option>
+	                                <option value="10th Class">10th Class</option>
+	                                <option value="Intermediate (12th class)">Intermediate (12th class)</option>
+	                                <option value="Bachelors Degree">Bachelors Degree</option>
+	                                <option value="Masters Degree">Masters Degree</option>
+	                                <option value="Doctorate">Doctorate</option>
+	                            </select>
+	                            
+	                            
+	                            
+	                            
+	                            951d6343a33297e533b174fb8acfd1d8
